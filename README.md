@@ -16,7 +16,7 @@ git clone https://github.com/SahiRB1104/Auth.git
 cd Auth
 
 
-Install dependencies:
+-**Install** dependencies:
 npm install express mongoose dotenv bcrypt jsonwebtoken joi
 
 Start the server:
@@ -35,20 +35,24 @@ The API will run on http://localhost:5000
 | GET    | `/api/dashboard-summary` | Dummy dashboard data    | 
 ---------------------------------------------------------------
 
-Register a new user:
-![alt text](<Screenshot (175).png>)
 
-Login and get JWT:
-![alt text](image.png)
-![alt text](<Screenshot (176).png>)
+2. **screenshots**
 
-Get and update profile:
-![alt text](<Screenshot (177).png>)
+Register a new user:  
+![Register a new user](./screenshots/Screenshot%20(175).png)
 
-Save and fetch preferences:
-![alt text](<Screenshot (178).png>)
-![alt text](<Screenshot (179).png>)
+Login and get JWT:  
+![Login](./screenshots/image.png)  
+![Login JWT](./screenshots/Screenshot%20(176).png)
 
-Dummy dashboard summary:
-![alt text](<Screenshot (180).png>)
+Get and update profile:  
+![Profile](./screenshots/Screenshot%20(177).png)
 
+Save and fetch preferences:  
+![Save Preferences](./screenshots/Screenshot%20(178).png)  
+![Fetch Preferences](./screenshots/Screenshot%20(179).png)
+
+Dummy dashboard summary:  
+![Dashboard Summary](./screenshots/Screenshot%20(180).png)
+
+ 

@@ -8,10 +8,28 @@
 - **bcrypt** for password hashing
 - **dotenv** for environment variables
 
-## ⚙️ Setup Instructions
+## 📸 Screenshots
+
 ### Register a new user
-  ![Register a new user](./screenshots/Screenshot%20(175).png)
-1. **Clone the repository:**
+![Register a new user](./screenshots/Screenshot%20(175).png)
+
+### Login and get JWT
+![Login](./screenshots/image.png)  
+![Login JWT](./screenshots/Screenshot%20(176).png)
+
+### Get and update profile
+![Profile](./screenshots/Screenshot%20(177).png)
+
+### Save and fetch preferences
+![Save Preferences](./screenshots/Screenshot%20(178).png)  
+![Fetch Preferences](./screenshots/Screenshot%20(179).png)
+
+### Dashboard summary
+![Dashboard Summary](./screenshots/Screenshot%20(180).png)
+
+
+## ⚙️ Setup Instructions
+**Clone the repository:**
 ```bash
 git clone https://github.com/SahiRB1104/Auth.git
 cd Auth
@@ -37,22 +55,5 @@ The API will run on http://localhost:5000
 ---------------------------------------------------------------
 
 
-
-Register a new user:  
-![Register a new user](./screenshots/Screenshot%20(175).png)
-
-Login and get JWT:  
-![Login](./screenshots/image.png)  
-![Login JWT](./screenshots/Screenshot%20(176).png)
-
-Get and update profile:  
-![Profile](./screenshots/Screenshot%20(177).png)
-
-Save and fetch preferences:  
-![Save Preferences](./screenshots/Screenshot%20(178).png)  
-![Fetch Preferences](./screenshots/Screenshot%20(179).png)
-
-Dummy dashboard summary:  
-![Dashboard Summary](./screenshots/Screenshot%20(180).png)
 
  

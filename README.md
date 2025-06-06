@@ -9,7 +9,8 @@
 - **dotenv** for environment variables
 
 ## ⚙️ Setup Instructions
-
+### Register a new user
+  ![Register a new user](./screenshots/Screenshot%20(175).png)
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/SahiRB1104/Auth.git
@@ -36,7 +37,6 @@ The API will run on http://localhost:5000
 ---------------------------------------------------------------
 
 
-2. **screenshots**
 
 Register a new user:  
 ![Register a new user](./screenshots/Screenshot%20(175).png)

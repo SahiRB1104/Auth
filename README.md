@@ -40,7 +40,8 @@ npm install express mongoose dotenv bcrypt jsonwebtoken joi
 
 Start the server:
 npm run dev
-
+ 
+use postman for REST
 The API will run on http://localhost:5000
 ---------------------------------------------------------------
 | Method | Endpoint                 | Description             |
